@@ -6,5 +6,4 @@ Requirements:
   python3,
   PyQt5
   
-You can visit my site:
-https://hossainelsafayet.site123.me
+You can visit my site [Alzestors](https://hossainelsafayet.site123.me)
