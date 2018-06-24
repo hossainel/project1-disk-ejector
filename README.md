@@ -3,8 +3,8 @@
     It is a simple cd drive ejector.
 
 Requirements:
-  *python3
-  *PyQt5
+  python3
+  PyQt5
   
 You can visit my site:
 https://hossainelsafayet.site123.me
